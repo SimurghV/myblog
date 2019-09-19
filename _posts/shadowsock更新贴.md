@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      翻墙SS  更新贴
+title:      翻墙SS更新贴
 subtitle:   重新开了个服务器，修改了一下密码，现在可以用了
 date:       2019-09-19
 author:     Simurgh
